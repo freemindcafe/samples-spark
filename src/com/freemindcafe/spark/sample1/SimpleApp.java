@@ -2,17 +2,13 @@ package com.freemindcafe.spark.sample1;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.lang.reflect.Field;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Properties;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.Function;
-import org.junit.Test;
+
 
 public class SimpleApp {
 	
