@@ -9,5 +9,11 @@
 	<classpathentry kind="lib" path="E:/softwares/spark-1.3.1-bin-hadoop2.6/lib/spark-assembly-1.3.1-hadoop2.6.0.jar"/>
 	<classpathentry kind="lib" path="E:/softwares/spark-1.3.1-bin-hadoop2.6/lib/spark-examples-1.3.1-hadoop2.6.0.jar"/>
 	<classpathentry kind="lib" path="lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/netty-3.7.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/zookeeper-3.4.6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
